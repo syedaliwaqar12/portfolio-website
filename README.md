@@ -1,4 +1,4 @@
-# Syed Ali Zeeshan Waqar - Portfolio Website
+# Modern NextJS Portfolio Website
 
 A modern, responsive portfolio website showcasing my expertise as an AI Full Stack Software Engineer. Built with Next.js, TypeScript, and Tailwind CSS, featuring smooth animations, interactive components, and a professional design.
 
@@ -233,8 +233,6 @@ Open a Pull Request
 Syed Ali Zeeshan Waqar
 
 📧 Email: syedaliwaqar12@gmail.com
-📱 Phone/WhatsApp: +92 (342) 1507251
-📍 Location: Islamabad, Pakistan
 💼 LinkedIn: linkedin.com/in/syedaliwaqar12
 🐙 GitHub: github.com/syedaliwaqar12
 🌐 Portfolio: syedaliporfolio.netlify.app
